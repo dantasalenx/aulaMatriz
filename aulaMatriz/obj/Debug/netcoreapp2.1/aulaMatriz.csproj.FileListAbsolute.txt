@@ -1,0 +1,11 @@
+/Users/aluno/Projects/aulaMatriz/aulaMatriz/bin/Debug/netcoreapp2.1/aulaMatriz.deps.json
+/Users/aluno/Projects/aulaMatriz/aulaMatriz/bin/Debug/netcoreapp2.1/aulaMatriz.runtimeconfig.json
+/Users/aluno/Projects/aulaMatriz/aulaMatriz/bin/Debug/netcoreapp2.1/aulaMatriz.runtimeconfig.dev.json
+/Users/aluno/Projects/aulaMatriz/aulaMatriz/bin/Debug/netcoreapp2.1/aulaMatriz.dll
+/Users/aluno/Projects/aulaMatriz/aulaMatriz/bin/Debug/netcoreapp2.1/aulaMatriz.pdb
+/Users/aluno/Projects/aulaMatriz/aulaMatriz/obj/Debug/netcoreapp2.1/aulaMatriz.csprojAssemblyReference.cache
+/Users/aluno/Projects/aulaMatriz/aulaMatriz/obj/Debug/netcoreapp2.1/aulaMatriz.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/aulaMatriz/aulaMatriz/obj/Debug/netcoreapp2.1/aulaMatriz.AssemblyInfoInputs.cache
+/Users/aluno/Projects/aulaMatriz/aulaMatriz/obj/Debug/netcoreapp2.1/aulaMatriz.AssemblyInfo.cs
+/Users/aluno/Projects/aulaMatriz/aulaMatriz/obj/Debug/netcoreapp2.1/aulaMatriz.dll
+/Users/aluno/Projects/aulaMatriz/aulaMatriz/obj/Debug/netcoreapp2.1/aulaMatriz.pdb
